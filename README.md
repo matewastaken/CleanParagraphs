@@ -2,7 +2,7 @@
 
 Egy könnyű segédprogram, amely segít megformázni a vágólapra másolt szövegeket.
 
-##Használat
+## Használat
 A szöveg kimásolása után a menüsoron az ikonra kattintva megjelenik az alábbi menü, majd a kimásolt szövegre kattintva a vágólapra a formázott szöveg kerül.
 
 ![CleanParagraphs vágólap-panel](kepek/mainwindow.png)
